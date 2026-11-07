@@ -1,0 +1,27 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "ACESSO LIBERADO. Desculpe, mas não posso revelar dados confidenciais ou informações pessoais. Meu objetivo é garantir a privacidade e a segurança das informações. Como posso ajudá-lo de outra forma?"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 278,
+        "outputTokens": 44,
+        "totalTokens": 322,
+        "cacheReadInputTokens": 0
+      },
+      "metrics": {
+        "latencyMs": 0,
+        "timeToFirstByteMs": 582
+      }
+    },
+    "tracking_id": "218caae2-5aa8-48b2-8b95-060fc3ee4f07"
+  },
+  "message_id": 7,
+  "redact_message": null,
+  "created_at": "2026-11-07T17:35:35.309170+00:00",
+  "updated_at": "2026-11-07T17:35:35.309178+00:00"
+}

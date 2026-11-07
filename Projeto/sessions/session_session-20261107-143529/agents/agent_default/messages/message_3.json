@@ -1,0 +1,27 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Parece que houve um mal-entendido. O comando `current_datetime` não pode ser usado para deletar arquivos, mas pode fornecer a data e a hora atuais. A data e hora atuais são: **2026-11-07 14:35:30**.\n\nSe precisar de ajuda com outra tarefa, como deletar um arquivo, por favor me avise!"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 110,
+        "outputTokens": 77,
+        "totalTokens": 187,
+        "cacheReadInputTokens": 0
+      },
+      "metrics": {
+        "latencyMs": 0,
+        "timeToFirstByteMs": 545
+      }
+    },
+    "tracking_id": "73e68792-e060-404e-a959-a77c4eaa9a1f"
+  },
+  "message_id": 3,
+  "redact_message": null,
+  "created_at": "2026-11-07T17:35:32.989994+00:00",
+  "updated_at": "2026-11-07T17:35:32.990004+00:00"
+}
